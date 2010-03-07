@@ -1,0 +1,631 @@
+TiArduino
+v7
+r0
+t288334081.757062
+cCheck dependencies
+cProcessInfoPlistFile /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/Info.plist iArduino-Info.plist
+cCompileXIB /Users/miminashi/MacDev/iArduino/FlipsideView.xib
+cCompileXIB /Users/miminashi/MacDev/iArduino/MainView.xib
+cCompileXIB /Users/miminashi/MacDev/iArduino/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/iArduino.app/up.png up.png
+cCpResource build/Debug-iphonesimulator/iArduino.app/down.png down.png
+cCompileXIB /Users/miminashi/MacDev/iArduino/UITableViewCell.xib
+cCpResource build/Debug-iphonesimulator/iArduino.app/disconnected.png disconnected.png
+cCpResource build/Debug-iphonesimulator/iArduino.app/connected.png connected.png
+cProcessPCH /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-ccnllsbagxemmthjojvtntguuqax/iArduino_Prefix.pch.gch iArduino_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/main.o /Users/miminashi/MacDev/iArduino/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/iArduinoAppDelegate.o /Users/miminashi/MacDev/iArduino/Classes/iArduinoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/FlipsideView.o /Users/miminashi/MacDev/iArduino/Classes/FlipsideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/MainView.o /Users/miminashi/MacDev/iArduino/Classes/MainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/MainViewController.o /Users/miminashi/MacDev/iArduino/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/FlipsideViewController.o /Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/TCPOperation.o /Users/miminashi/MacDev/iArduino/TCPOperation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/SocketObject.o /Users/miminashi/MacDev/iArduino/SocketObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/iArduino normal i386
+cGenerateDSYMFile /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app.dSYM /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/iArduino
+cTouch /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B2B86DD00000000000000EE
+t1261143773
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026DAB0
+t1253951571
+s2546352
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027D510
+t1253951826
+s2610448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE20000000001670E70
+t1253961442
+s23531120
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/Availability.h
+c000000004ABDCA4700000000000019F9
+t1253952071
+s6649
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B7F60FD00000000000000EE
+t1266639101
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/Availability.h
+c000000004B2B4EE200000000000019F9
+t1261129442
+s6649
+
+N/Users/miminashi/MacDev/iArduino/Classes/FlipsideView.h
+c000000004B78318D00000000000000BB
+t1266168205
+s187
+
+N/Users/miminashi/MacDev/iArduino/Classes/FlipsideView.m
+c000000004B5963CE00000000000001BB
+t1264149454
+s443
+i"FlipsideView.h"
+
+N/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.h
+c000000004B7F3D080000000000000349
+t1266629896
+s841
+i"SocketObject.h"
+
+N/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m
+c000000004B7F3CFC00000000000007F0
+t1266629884
+s2032
+i"FlipsideViewController.h"
+i"MainViewController.h"
+
+N/Users/miminashi/MacDev/iArduino/Classes/MainView.h
+c000000004B606FC900000000000000E0
+t1264611273
+s224
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/miminashi/MacDev/iArduino/Classes/MainView.m
+c000000004B606FC900000000000000B2
+t1264611273
+s178
+i"MainView.h"
+
+N/Users/miminashi/MacDev/iArduino/Classes/MainViewController.h
+c000000004B7F53E30000000000000548
+t1266635747
+s1352
+i"FlipsideViewController.h"
+i"SocketObject.h"
+
+N/Users/miminashi/MacDev/iArduino/Classes/MainViewController.m
+c000000004B7F593500000000000014B9
+t1266637109
+s5305
+i"MainViewController.h"
+i"MainView.h"
+
+N/Users/miminashi/MacDev/iArduino/Classes/iArduinoAppDelegate.h
+c000000004B5963CE00000000000001C0
+t1264149454
+s448
+
+N/Users/miminashi/MacDev/iArduino/Classes/iArduinoAppDelegate.m
+c000000004B5963CE000000000000032C
+t1264149454
+s812
+i"iArduinoAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/miminashi/MacDev/iArduino/FlipsideView.xib
+c000000004B7F34EA0000000000007D14
+t1266627818
+s32020
+
+N/Users/miminashi/MacDev/iArduino/MainView.xib
+c000000004B7F4D220000000000008E17
+t1266634018
+s36375
+
+N/Users/miminashi/MacDev/iArduino/MainWindow.xib
+c000000004B5963CE0000000000001E14
+t1264149454
+s7700
+
+N/Users/miminashi/MacDev/iArduino/SocketObject.h
+c000000004B7F4AEF0000000000000166
+t1266633455
+s358
+
+N/Users/miminashi/MacDev/iArduino/SocketObject.m
+c000000004B7F163400000000000004BB
+t1266619956
+s1211
+i"SocketObject.h"
+
+N/Users/miminashi/MacDev/iArduino/TCPOperation.h
+c000000004B781026000000000000014E
+t1266159654
+s334
+i<Foundation/Foundation.h>
+
+N/Users/miminashi/MacDev/iArduino/TCPOperation.m
+c000000004B6814CD0000000000000236
+t1265112269
+s566
+i"TCPOperation.h"
+
+N/Users/miminashi/MacDev/iArduino/UITableViewCell.h
+c000000004B7820D000000000000000E1
+t1266163920
+s225
+i<UIKit/UIKit.h>
+
+N/Users/miminashi/MacDev/iArduino/UITableViewCell.m
+c000000004B7820D000000000000010BC
+t1266163920
+s4284
+i"UITableViewCell.h"
+
+N/Users/miminashi/MacDev/iArduino/UITableViewCell.xib
+c000000004B7838AA0000000000003463
+t1266170026
+s13411
+
+N/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app
+t1266641159
+s442
+
+N/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app.dSYM
+t1266641159
+s102
+
+N/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/FlipsideView.nib
+t1266641157
+s4565
+
+N/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/Info.plist
+t1266641104
+s568
+
+N/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/MainView.nib
+t1266641157
+s5260
+
+N/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/MainWindow.nib
+t1266641157
+s1380
+
+N/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/PkgInfo
+t1266641104
+s8
+
+N/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/UITableViewCell.nib
+t1266641157
+s1631
+
+N/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/connected.png
+t1266623629
+s651
+
+N/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/disconnected.png
+t1266623629
+s984
+
+N/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/down.png
+t1266622535
+s2301
+
+N/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/iArduino
+t1266641159
+s35916
+
+N/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/up.png
+t1266622535
+s1857
+
+N/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/FlipsideView.o
+t1266641158
+s9872
+
+N/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/FlipsideViewController.o
+t1266641159
+s40384
+
+N/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/MainView.o
+t1266641158
+s4880
+
+N/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/MainViewController.o
+t1266641159
+s47528
+
+N/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/SocketObject.o
+t1266641159
+s10676
+
+N/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/TCPOperation.o
+t1266641159
+s10716
+
+N/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/UITableViewCell.o
+t2
+s0
+
+N/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/iArduino.LinkFileList
+c000000004B7F204300000000000003FB
+t1266622531
+s1019
+
+N/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/iArduinoAppDelegate.o
+t1266641158
+s41804
+
+N/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/main.o
+t1266641158
+s5944
+
+N/Users/miminashi/MacDev/iArduino/connected.png
+c000000004B7F232E000000000000028B
+t1266623278
+s651
+
+N/Users/miminashi/MacDev/iArduino/disconnected.png
+c000000004B7F235100000000000003D8
+t1266623313
+s984
+
+N/Users/miminashi/MacDev/iArduino/down.png
+c000000004B5957C200000000000008FD
+t1264146370
+s2301
+
+N/Users/miminashi/MacDev/iArduino/iArduino_Prefix.pch
+c000000004B5963CE0000000000000142
+t1264149454
+s322
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/miminashi/MacDev/iArduino/main.m
+c000000004B5963CE000000000000016B
+t1264149454
+s363
+i<UIKit/UIKit.h>
+
+N/Users/miminashi/MacDev/iArduino/up.png
+c000000004B5956190000000000000741
+t1264145945
+s1857
+
+N/var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-attxwxhvbskrhjbulehwhucmueov/iArduino_Prefix.pch.gch
+t1266641113
+s13034960
+
+N/var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-bufqthcsjsihzwfdnkyorpstfjdz/iArduino_Prefix.pch.gch
+t1266622537
+s13026768
+
+N/var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-ccnllsbagxemmthjojvtntguuqax/iArduino_Prefix.pch.gch
+t1266641158
+s13034960
+
+NiArduino-Info.plist
+c000000004B5963CE000000000000038D
+t1264149454
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies288334081#288334081#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/FlipsideView.o /Users/miminashi/MacDev/iArduino/Classes/FlipsideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288333958.778102
+e288333958.880750
+r1
+xCompileC
+xbuild/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/FlipsideView.o
+x/Users/miminashi/MacDev/iArduino/Classes/FlipsideView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/miminashi/MacDev/iArduino/Classes/FlipsideView.m288333958#288333958#0(0"0(0#0#55"/Users/miminashi/MacDev/iArduino/Classes/FlipsideView.m4300885448#1837"    cd /Users/miminashi/MacDev/iArduino    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-generated-files.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-own-target-headers.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-all-target-headers.hmap -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-project-headers.hmap -F/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator -I/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/include -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources/i386 -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources -include /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-ccnllsbagxemmthjojvtntguuqax/iArduino_Prefix.pch -c /Users/miminashi/MacDev/iArduino/Classes/FlipsideView.m -o /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/FlipsideView.o0#
+
+CCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/FlipsideViewController.o /Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288333958.922150
+e288333959.076070
+r1
+xCompileC
+xbuild/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m: In function '-[FlipsideViewController done]':
+o/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m:27: warning: incompatible Objective-C types 'struct UITextField *', expected 'struct UITextView *' when passing argument 1 of 'setIpAddressUITextField:' from distinct Objective-C type
+o/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m: In function '-[FlipsideViewController testButtonDidTouchDown]':
+o/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m:67: warning: 'SocketObject' may not respond to '-closeSocket'
+o/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m:67: warning: (Messages without a matching method signature
+o/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m:67: warning: will be assumed to return 'id' and accept
+o/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m:67: warning: '...' as arguments.)
+lSLF07#2@73"Compile /Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m288333958#288333959#0(968"/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m: In function '-[FlipsideViewController done]':/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m:27: warning: incompatible Objective-C types 'struct UITextField *', expected 'struct UITextView *' when passing argument 1 of 'setIpAddressUITextField:' from distinct Objective-C type/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m: In function '-[FlipsideViewController testButtonDidTouchDown]':/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m:67: warning: 'SocketObject' may not respond to '-closeSocket'/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m:67: warning: (Messages without a matching method signature/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m:67: warning: will be assumed to return 'id' and accept/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m:67: warning: '...' as arguments.)3(22@170"Incompatible Objective-C types 'struct UITextField *', expected 'struct UITextView *' when passing argument 1 of 'setIpAddressUITextField:' from distinct Objective-C type288333958#113#250#0(6@65"/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m288322684#27#0#27#0#0"0(22@48"'SocketObject' may not respond to '-closeSocket'288333958#494#128#0(6@65"/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m288322684#67#0#67#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)288333958#622#125#0(6@65"/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m288322684#67#0#67#0#0"0(0#0#65"/Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m4300885448#1857"    cd /Users/miminashi/MacDev/iArduino    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-generated-files.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-own-target-headers.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-all-target-headers.hmap -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-project-headers.hmap -F/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator -I/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/include -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources/i386 -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources -include /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-ccnllsbagxemmthjojvtntguuqax/iArduino_Prefix.pch -c /Users/miminashi/MacDev/iArduino/Classes/FlipsideViewController.m -o /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/FlipsideViewController.o0#
+
+CCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/MainView.o /Users/miminashi/MacDev/iArduino/Classes/MainView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288333958.849766
+e288333958.922040
+r1
+xCompileC
+xbuild/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/MainView.o
+x/Users/miminashi/MacDev/iArduino/Classes/MainView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/miminashi/MacDev/iArduino/Classes/MainView.m288333958#288333958#0(0"0(0#0#51"/Users/miminashi/MacDev/iArduino/Classes/MainView.m4300885448#1829"    cd /Users/miminashi/MacDev/iArduino    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-generated-files.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-own-target-headers.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-all-target-headers.hmap -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-project-headers.hmap -F/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator -I/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/include -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources/i386 -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources -include /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-ccnllsbagxemmthjojvtntguuqax/iArduino_Prefix.pch -c /Users/miminashi/MacDev/iArduino/Classes/MainView.m -o /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/MainView.o0#
+
+CCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/MainViewController.o /Users/miminashi/MacDev/iArduino/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288333958.880859
+e288333959.106156
+r1
+xCompileC
+xbuild/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/MainViewController.o
+x/Users/miminashi/MacDev/iArduino/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/miminashi/MacDev/iArduino/Classes/MainViewController.m: In function '-[MainViewController showInfo]':
+o/Users/miminashi/MacDev/iArduino/Classes/MainViewController.m:95: warning: 'SocketObject' may not respond to '-closeSocket'
+o/Users/miminashi/MacDev/iArduino/Classes/MainViewController.m:95: warning: (Messages without a matching method signature
+o/Users/miminashi/MacDev/iArduino/Classes/MainViewController.m:95: warning: will be assumed to return 'id' and accept
+o/Users/miminashi/MacDev/iArduino/Classes/MainViewController.m:95: warning: '...' as arguments.)
+lSLF07#2@69"Compile /Users/miminashi/MacDev/iArduino/Classes/MainViewController.m288333958#288333959#0(567"/Users/miminashi/MacDev/iArduino/Classes/MainViewController.m: In function '-[MainViewController showInfo]':/Users/miminashi/MacDev/iArduino/Classes/MainViewController.m:95: warning: 'SocketObject' may not respond to '-closeSocket'/Users/miminashi/MacDev/iArduino/Classes/MainViewController.m:95: warning: (Messages without a matching method signature/Users/miminashi/MacDev/iArduino/Classes/MainViewController.m:95: warning: will be assumed to return 'id' and accept/Users/miminashi/MacDev/iArduino/Classes/MainViewController.m:95: warning: '...' as arguments.)2(22@48"'SocketObject' may not respond to '-closeSocket'288333958#109#124#0(6@61"/Users/miminashi/MacDev/iArduino/Classes/MainViewController.m288329909#95#0#95#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)288333958#233#121#0(6@61"/Users/miminashi/MacDev/iArduino/Classes/MainViewController.m288329909#95#0#95#0#0"0(0#0#61"/Users/miminashi/MacDev/iArduino/Classes/MainViewController.m4300885448#1849"    cd /Users/miminashi/MacDev/iArduino    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-generated-files.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-own-target-headers.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-all-target-headers.hmap -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-project-headers.hmap -F/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator -I/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/include -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources/i386 -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources -include /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-ccnllsbagxemmthjojvtntguuqax/iArduino_Prefix.pch -c /Users/miminashi/MacDev/iArduino/Classes/MainViewController.m -o /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/SocketObject.o /Users/miminashi/MacDev/iArduino/SocketObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288333959.106279
+e288333959.197000
+r1
+xCompileC
+xbuild/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/SocketObject.o
+x/Users/miminashi/MacDev/iArduino/SocketObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/miminashi/MacDev/iArduino/SocketObject.m: In function '-[SocketObject openSocket:port:]':
+o/Users/miminashi/MacDev/iArduino/SocketObject.m:24: warning: no '+hostWithAddress:' method found
+o/Users/miminashi/MacDev/iArduino/SocketObject.m:24: warning: (Messages without a matching method signature
+o/Users/miminashi/MacDev/iArduino/SocketObject.m:24: warning: will be assumed to return 'id' and accept
+o/Users/miminashi/MacDev/iArduino/SocketObject.m:24: warning: '...' as arguments.)
+o/Users/miminashi/MacDev/iArduino/SocketObject.m:26: warning: 'NSStream' may not respond to '+getStreamsToHost:port:inputStream:outputStream:'
+lSLF07#2@55"Compile /Users/miminashi/MacDev/iArduino/SocketObject.m288333959#288333959#0(628"/Users/miminashi/MacDev/iArduino/SocketObject.m: In function '-[SocketObject openSocket:port:]':/Users/miminashi/MacDev/iArduino/SocketObject.m:24: warning: no '+hostWithAddress:' method found/Users/miminashi/MacDev/iArduino/SocketObject.m:24: warning: (Messages without a matching method signature/Users/miminashi/MacDev/iArduino/SocketObject.m:24: warning: will be assumed to return 'id' and accept/Users/miminashi/MacDev/iArduino/SocketObject.m:24: warning: '...' as arguments.)/Users/miminashi/MacDev/iArduino/SocketObject.m:26: warning: 'NSStream' may not respond to '+getStreamsToHost:port:inputStream:outputStream:'3(22@35"No '+hostWithAddress:' method found288333959#97#97#0(6@47"/Users/miminashi/MacDev/iArduino/SocketObject.m288312756#24#0#24#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)288333959#194#107#0(6@47"/Users/miminashi/MacDev/iArduino/SocketObject.m288312756#24#0#24#0#0"0(22@80"'NSStream' may not respond to '+getStreamsToHost:port:inputStream:outputStream:'288333959#486#142#0(6@47"/Users/miminashi/MacDev/iArduino/SocketObject.m288312756#26#0#26#0#26"'*' may not respond to '*'0(0#0#47"/Users/miminashi/MacDev/iArduino/SocketObject.m4300885448#1829"    cd /Users/miminashi/MacDev/iArduino    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-generated-files.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-own-target-headers.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-all-target-headers.hmap -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-project-headers.hmap -F/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator -I/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/include -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources/i386 -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources -include /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-ccnllsbagxemmthjojvtntguuqax/iArduino_Prefix.pch -c /Users/miminashi/MacDev/iArduino/SocketObject.m -o /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/SocketObject.o0#
+
+CCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/TCPOperation.o /Users/miminashi/MacDev/iArduino/TCPOperation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288333959.076178
+e288333959.174114
+r1
+xCompileC
+xbuild/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/TCPOperation.o
+x/Users/miminashi/MacDev/iArduino/TCPOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/miminashi/MacDev/iArduino/TCPOperation.m288333959#288333959#0(0"0(0#0#47"/Users/miminashi/MacDev/iArduino/TCPOperation.m4300885448#1829"    cd /Users/miminashi/MacDev/iArduino    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-generated-files.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-own-target-headers.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-all-target-headers.hmap -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-project-headers.hmap -F/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator -I/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/include -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources/i386 -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources -include /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-ccnllsbagxemmthjojvtntguuqax/iArduino_Prefix.pch -c /Users/miminashi/MacDev/iArduino/TCPOperation.m -o /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/TCPOperation.o0#
+
+CCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/UITableViewCell.o /Users/miminashi/MacDev/iArduino/UITableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/iArduinoAppDelegate.o /Users/miminashi/MacDev/iArduino/Classes/iArduinoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288333958.687666
+e288333958.849650
+r1
+xCompileC
+xbuild/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/iArduinoAppDelegate.o
+x/Users/miminashi/MacDev/iArduino/Classes/iArduinoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/miminashi/MacDev/iArduino/Classes/iArduinoAppDelegate.m288333958#288333958#0(0"0(0#0#62"/Users/miminashi/MacDev/iArduino/Classes/iArduinoAppDelegate.m4300885448#1851"    cd /Users/miminashi/MacDev/iArduino    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-generated-files.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-own-target-headers.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-all-target-headers.hmap -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-project-headers.hmap -F/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator -I/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/include -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources/i386 -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources -include /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-ccnllsbagxemmthjojvtntguuqax/iArduino_Prefix.pch -c /Users/miminashi/MacDev/iArduino/Classes/iArduinoAppDelegate.m -o /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/iArduinoAppDelegate.o0#
+
+CCompileC build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/main.o /Users/miminashi/MacDev/iArduino/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288333958.686624
+e288333958.777979
+r1
+xCompileC
+xbuild/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/main.o
+x/Users/miminashi/MacDev/iArduino/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/miminashi/MacDev/iArduino/main.m288333958#288333958#0(0"0(0#0#39"/Users/miminashi/MacDev/iArduino/main.m4300885448#1813"    cd /Users/miminashi/MacDev/iArduino    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-generated-files.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-own-target-headers.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-all-target-headers.hmap -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-project-headers.hmap -F/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator -I/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/include -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources/i386 -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources -include /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-ccnllsbagxemmthjojvtntguuqax/iArduino_Prefix.pch -c /Users/miminashi/MacDev/iArduino/main.m -o /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/miminashi/MacDev/iArduino/FlipsideView.xib
+s288333955.338584
+e288333957.111615
+r1
+xCompileXIB
+x/Users/miminashi/MacDev/iArduino/FlipsideView.xib
+lSLF07#2@27"CompileXIB FlipsideView.xib288333955#288333957#0(0"0(0#0#49"/Users/miminashi/MacDev/iArduino/FlipsideView.xib4300885448#469"    cd /Users/miminashi/MacDev/iArduino    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/FlipsideView.nib /Users/miminashi/MacDev/iArduino/FlipsideView.xib0#
+
+CCompileXIB /Users/miminashi/MacDev/iArduino/MainView.xib
+s288333955.345290
+e288333957.106404
+r1
+xCompileXIB
+x/Users/miminashi/MacDev/iArduino/MainView.xib
+lSLF07#2@23"CompileXIB MainView.xib288333955#288333957#0(0"0(0#0#45"/Users/miminashi/MacDev/iArduino/MainView.xib4300885448#461"    cd /Users/miminashi/MacDev/iArduino    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/MainView.nib /Users/miminashi/MacDev/iArduino/MainView.xib0#
+
+CCompileXIB /Users/miminashi/MacDev/iArduino/MainWindow.xib
+s288333957.106599
+e288333957.564839
+r1
+xCompileXIB
+x/Users/miminashi/MacDev/iArduino/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib288333957#288333957#0(0"0(0#0#47"/Users/miminashi/MacDev/iArduino/MainWindow.xib4300885448#465"    cd /Users/miminashi/MacDev/iArduino    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/MainWindow.nib /Users/miminashi/MacDev/iArduino/MainWindow.xib0#
+
+CCompileXIB /Users/miminashi/MacDev/iArduino/UITableViewCell.xib
+s288333957.111854
+e288333957.580150
+r1
+xCompileXIB
+x/Users/miminashi/MacDev/iArduino/UITableViewCell.xib
+lSLF07#2@30"CompileXIB UITableViewCell.xib288333957#288333957#0(0"0(0#0#52"/Users/miminashi/MacDev/iArduino/UITableViewCell.xib4300885448#475"    cd /Users/miminashi/MacDev/iArduino    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/UITableViewCell.nib /Users/miminashi/MacDev/iArduino/UITableViewCell.xib0#
+
+CCpResource build/Debug-iphonesimulator/iArduino.app/connected.png connected.png
+s288316429.834573
+e288316429.884252
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iArduino.app/connected.png
+xconnected.png
+lSLF07#2@18"Copy connected.png288316429#288316429#0(0"0(0#0#46"/Users/miminashi/MacDev/iArduino/connected.png4300903632#440"    cd /Users/miminashi/MacDev/iArduino    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/miminashi/MacDev/iArduino/connected.png /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app0#
+
+CCpResource build/Debug-iphonesimulator/iArduino.app/disconnected.png disconnected.png
+s288316429.814017
+e288316429.865803
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iArduino.app/disconnected.png
+xdisconnected.png
+lSLF07#2@21"Copy disconnected.png288316429#288316429#0(0"0(0#0#49"/Users/miminashi/MacDev/iArduino/disconnected.png4300903632#443"    cd /Users/miminashi/MacDev/iArduino    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/miminashi/MacDev/iArduino/disconnected.png /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app0#
+
+CCpResource build/Debug-iphonesimulator/iArduino.app/down.png down.png
+s288315334.958992
+e288315335.138202
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iArduino.app/down.png
+xdown.png
+lSLF07#2@13"Copy down.png288315334#288315335#0(0"0(0#0#41"/Users/miminashi/MacDev/iArduino/down.png4300903632#435"    cd /Users/miminashi/MacDev/iArduino    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/miminashi/MacDev/iArduino/down.png /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app0#
+
+CCpResource build/Debug-iphonesimulator/iArduino.app/up.png up.png
+s288315334.957828
+e288315335.138029
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iArduino.app/up.png
+xup.png
+lSLF07#2@11"Copy up.png288315334#288315335#0(0"0(0#0#39"/Users/miminashi/MacDev/iArduino/up.png4300903632#433"    cd /Users/miminashi/MacDev/iArduino    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/miminashi/MacDev/iArduino/up.png /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app0#
+
+CGenerateDSYMFile /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app.dSYM /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/iArduino
+s288333959.549086
+e288333959.588316
+r1
+xGenerateDSYMFile
+x/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app.dSYM
+x/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/iArduino
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/iArduino.app.dSYM build/Debug-iphonesimulator/iArduino.app/iArduino288333959#288333959#0(0"0(0#0#82"/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/iArduino4300885448#368"    cd /Users/miminashi/MacDev/iArduino    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/iArduino -o /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app.dSYM0#
+
+CLd /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/iArduino normal i386
+s288333959.197106
+e288333959.548937
+r1
+xLd
+x/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/iArduino
+xnormal
+xi386
+lSLF07#2@87"Link /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/iArduino288333959#288333959#0(0"0(0#0#0"4300885448#839"    cd /Users/miminashi/MacDev/iArduino    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator -F/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator -filelist /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/Objects-normal/i386/iArduino.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/iArduino0#
+
+CProcessInfoPlistFile /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/Info.plist iArduino-Info.plist
+s288333904.819588
+e288333904.844755
+r1
+xProcessInfoPlistFile
+x/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/Info.plist
+xiArduino-Info.plist
+lSLF07#2@27"Process iArduino-Info.plist288333904#288333904#0(0"0(0#0#52"/Users/miminashi/MacDev/iArduino/iArduino-Info.plist4300885448#464"    cd /Users/miminashi/MacDev/iArduino    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iArduino-Info.plist -genpkginfo /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app/Info.plist0#
+
+CProcessPCH /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-attxwxhvbskrhjbulehwhucmueov/iArduino_Prefix.pch.gch iArduino_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288333911.853543
+e288333913.783657
+r1
+xProcessPCH
+x/var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-attxwxhvbskrhjbulehwhucmueov/iArduino_Prefix.pch.gch
+xiArduino_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile iArduino_Prefix.pch288333911#288333913#0(0"0(0#0#52"/Users/miminashi/MacDev/iArduino/iArduino_Prefix.pch4300885448#1710"    cd /Users/miminashi/MacDev/iArduino    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-generated-files.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-own-target-headers.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-all-target-headers.hmap -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-project-headers.hmap -F/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator -I/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/include -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources/i386 -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources -c /Users/miminashi/MacDev/iArduino/iArduino_Prefix.pch -o /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-attxwxhvbskrhjbulehwhucmueov/iArduino_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-bufqthcsjsihzwfdnkyorpstfjdz/iArduino_Prefix.pch.gch iArduino_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288315335.485642
+e288315338.141303
+r1
+xProcessPCH
+x/var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-bufqthcsjsihzwfdnkyorpstfjdz/iArduino_Prefix.pch.gch
+xiArduino_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile iArduino_Prefix.pch288315335#288315338#0(0"0(0#0#52"/Users/miminashi/MacDev/iArduino/iArduino_Prefix.pch4300903632#1710"    cd /Users/miminashi/MacDev/iArduino    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-generated-files.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-own-target-headers.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-all-target-headers.hmap -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-project-headers.hmap -F/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator -I/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/include -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources/i386 -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources -c /Users/miminashi/MacDev/iArduino/iArduino_Prefix.pch -o /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-bufqthcsjsihzwfdnkyorpstfjdz/iArduino_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-ccnllsbagxemmthjojvtntguuqax/iArduino_Prefix.pch.gch iArduino_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288333957.580289
+e288333958.686420
+r1
+xProcessPCH
+x/var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-ccnllsbagxemmthjojvtntguuqax/iArduino_Prefix.pch.gch
+xiArduino_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile iArduino_Prefix.pch288333957#288333958#0(0"0(0#0#52"/Users/miminashi/MacDev/iArduino/iArduino_Prefix.pch4300885448#1710"    cd /Users/miminashi/MacDev/iArduino    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-generated-files.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-own-target-headers.hmap -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-all-target-headers.hmap -iquote /Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/iArduino-project-headers.hmap -F/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator -I/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/include -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources/i386 -I/Users/miminashi/MacDev/iArduino/build/iArduino.build/Debug-iphonesimulator/iArduino.build/DerivedSources -c /Users/miminashi/MacDev/iArduino/iArduino_Prefix.pch -o /var/folders/RL/RLcRlUa2Ggixi2M22M5i1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iArduino_Prefix-ccnllsbagxemmthjojvtntguuqax/iArduino_Prefix.pch.gch0#
+
+CTouch /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app
+s288333959.588449
+e288333959.592761
+r1
+xTouch
+x/Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app
+lSLF07#2@79"Touch /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app288333959#288333959#0(0"0(0#0#0"4300885448#267"    cd /Users/miminashi/MacDev/iArduino    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/miminashi/MacDev/iArduino/build/Debug-iphonesimulator/iArduino.app0#
+

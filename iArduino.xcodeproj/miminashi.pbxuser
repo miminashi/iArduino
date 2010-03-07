@@ -1,0 +1,433 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* iArduinoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 487}}";
+			sepNavSelRange = "{429, 0}";
+			sepNavVisRange = "{0, 440}";
+		};
+	};
+	1D3623250D0F684500981E51 /* iArduinoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 498}}";
+			sepNavSelRange = "{287, 0}";
+			sepNavVisRange = "{0, 804}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iArduino */ = {
+		activeExec = 0;
+		executables = (
+			5D69589B11099B4E00E8EA3D /* iArduino */,
+		);
+	};
+	289233A20DB2D0840083E9F9 /* FlipsideView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 481}}";
+			sepNavSelRange = "{172, 0}";
+			sepNavVisRange = "{0, 179}";
+		};
+	};
+	289233A30DB2D0840083E9F9 /* FlipsideView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 461}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 435}";
+		};
+	};
+	289233A40DB2D0840083E9F9 /* MainView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 481}}";
+			sepNavSelRange = "{209, 0}";
+			sepNavVisRange = "{0, 216}";
+		};
+	};
+	289233A50DB2D0840083E9F9 /* MainView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 481}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 170}";
+		};
+	};
+	289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 769}}";
+			sepNavSelRange = "{933, 0}";
+			sepNavVisRange = "{0, 915}";
+		};
+	};
+	289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1034, 2460}}";
+			sepNavSelRange = "{2622, 0}";
+			sepNavVisRange = "{3, 939}";
+			sepNavWindowFrame = "{{15, 68}, {750, 705}}";
+		};
+	};
+	289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 481}}";
+			sepNavSelRange = "{339, 0}";
+			sepNavVisRange = "{0, 833}";
+		};
+	};
+	289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 1070}}";
+			sepNavSelRange = "{232, 0}";
+			sepNavVisRange = "{0, 962}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 5D69589B11099B4E00E8EA3D /* iArduino */;
+		activeSDKPreference = iphoneos3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iArduino */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iArduino */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 5D6958AE11099B6000E8EA3D /* Code sense */;
+		executables = (
+			5D69589B11099B4E00E8EA3D /* iArduino */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					582,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 288692263;
+			PBXWorkspaceStateSaveDate = 288692263;
+		};
+		perUserProjectItems = {
+			5D483D0D112F516C0009D672 /* PBXTextBookmark */ = 5D483D0D112F516C0009D672 /* PBXTextBookmark */;
+			5D483D18112F516C0009D672 /* PBXTextBookmark */ = 5D483D18112F516C0009D672 /* PBXTextBookmark */;
+			5D483D19112F516C0009D672 /* PBXTextBookmark */ = 5D483D19112F516C0009D672 /* PBXTextBookmark */;
+			5D483D6F112F633D0009D672 /* PBXBookmark */ = 5D483D6F112F633D0009D672 /* PBXBookmark */;
+			5D483D70112F633D0009D672 /* PBXBookmark */ = 5D483D70112F633D0009D672 /* PBXBookmark */;
+			5D483D71112F633D0009D672 /* PBXBookmark */ = 5D483D71112F633D0009D672 /* PBXBookmark */;
+			5D483D72112F633D0009D672 /* PBXBookmark */ = 5D483D72112F633D0009D672 /* PBXBookmark */;
+			5D483D73112F633D0009D672 /* PlistBookmark */ = 5D483D73112F633D0009D672 /* PlistBookmark */;
+			5D4B2DA2113519C400DE7171 /* PBXTextBookmark */ = 5D4B2DA2113519C400DE7171 /* PBXTextBookmark */;
+			5D702CCE11285C4A009B006B /* PBXTextBookmark */ = 5D702CCE11285C4A009B006B /* PBXTextBookmark */;
+			5DA1EFF0113116EE00DF1338 /* PBXTextBookmark */ = 5DA1EFF0113116EE00DF1338 /* PBXTextBookmark */;
+			5DA1EFF1113116EE00DF1338 /* PBXTextBookmark */ = 5DA1EFF1113116EE00DF1338 /* PBXTextBookmark */;
+			5DA1EFF2113116EE00DF1338 /* PBXTextBookmark */ = 5DA1EFF2113116EE00DF1338 /* PBXTextBookmark */;
+			5DA1EFF3113116EE00DF1338 /* PBXTextBookmark */ = 5DA1EFF3113116EE00DF1338 /* PBXTextBookmark */;
+			5DA1EFF5113116EE00DF1338 /* PBXTextBookmark */ = 5DA1EFF5113116EE00DF1338 /* PBXTextBookmark */;
+			5DA1EFF7113116EE00DF1338 /* PBXTextBookmark */ = 5DA1EFF7113116EE00DF1338 /* PBXTextBookmark */;
+			5DCACB131132C4EB00F87D43 /* PBXTextBookmark */ = 5DCACB131132C4EB00F87D43 /* PBXTextBookmark */;
+			5DCACB141132C4EB00F87D43 /* PBXTextBookmark */ = 5DCACB141132C4EB00F87D43 /* PBXTextBookmark */;
+			5DCACB151132C4EB00F87D43 /* PBXTextBookmark */ = 5DCACB151132C4EB00F87D43 /* PBXTextBookmark */;
+			5DCACB161132C4EB00F87D43 /* PBXTextBookmark */ = 5DCACB161132C4EB00F87D43 /* PBXTextBookmark */;
+			5DCACB171132C4EB00F87D43 /* PBXTextBookmark */ = 5DCACB171132C4EB00F87D43 /* PBXTextBookmark */;
+			5DCACB221132C4EB00F87D43 /* PBXTextBookmark */ = 5DCACB221132C4EB00F87D43 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5D6958AD11099B6000E8EA3D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 464}}";
+			sepNavSelRange = "{355, 0}";
+			sepNavVisRange = "{0, 355}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* iArduino_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 479}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 322}";
+		};
+	};
+	5D4081191111CC2200E13F11 /* TCPOperation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 481}}";
+			sepNavSelRange = "{133, 0}";
+			sepNavVisRange = "{0, 326}";
+		};
+	};
+	5D40811A1111CC2200E13F11 /* TCPOperation.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 537}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 550}";
+		};
+	};
+	5D483D0D112F516C0009D672 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 18";
+		rLen = 0;
+		rLoc = 355;
+		rType = 0;
+		vrLen = 355;
+		vrLoc = 0;
+	};
+	5D483D18112F516C0009D672 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iArduinoAppDelegate.m */;
+		name = "iArduinoAppDelegate.m: 16";
+		rLen = 0;
+		rLoc = 287;
+		rType = 0;
+		vrLen = 804;
+		vrLoc = 0;
+	};
+	5D483D19112F516C0009D672 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* iArduinoAppDelegate.h */;
+		name = "iArduinoAppDelegate.h: 17";
+		rLen = 0;
+		rLoc = 429;
+		rType = 0;
+		vrLen = 440;
+		vrLoc = 0;
+	};
+	5D483D6F112F633D0009D672 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5D483D5F112F5B060009D672 /* disconnected.png */;
+	};
+	5D483D70112F633D0009D672 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5D483D60112F5B060009D672 /* connected.png */;
+	};
+	5D483D71112F633D0009D672 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5D6958C211099E7200E8EA3D /* up.png */;
+	};
+	5D483D72112F633D0009D672 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5D6958C311099E7200E8EA3D /* down.png */;
+	};
+	5D483D73112F633D0009D672 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iArduino-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/miminashi/MacDev/iArduino/iArduino-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	5D4B2DA2113519C400DE7171 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D702C6E1128480D009B006B /* SocketObject.m */;
+		name = "SocketObject.m: 17";
+		rLen = 0;
+		rLoc = 253;
+		rType = 0;
+		vrLen = 711;
+		vrLoc = 0;
+	};
+	5D69589B11099B4E00E8EA3D /* iArduino */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iArduino;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	5D6958AD11099B6000E8EA3D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5D6958AE11099B6000E8EA3D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5D702C6D1128480D009B006B /* SocketObject.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 481}}";
+			sepNavSelRange = "{236, 0}";
+			sepNavVisRange = "{0, 350}";
+		};
+	};
+	5D702C6E1128480D009B006B /* SocketObject.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 784}}";
+			sepNavSelRange = "{253, 0}";
+			sepNavVisRange = "{0, 711}";
+		};
+	};
+	5D702CCE11285C4A009B006B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* iArduino_Prefix.pch */;
+		name = "iArduino_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 322;
+		vrLoc = 0;
+	};
+	5DA1EFF0113116EE00DF1338 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A40DB2D0840083E9F9 /* MainView.h */;
+		name = "MainView.h: 13";
+		rLen = 0;
+		rLoc = 209;
+		rType = 0;
+		vrLen = 216;
+		vrLoc = 0;
+	};
+	5DA1EFF1113116EE00DF1338 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A50DB2D0840083E9F9 /* MainView.m */;
+		name = "MainView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 170;
+		vrLoc = 0;
+	};
+	5DA1EFF2113116EE00DF1338 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A80DB2D0DB0083E9F9 /* MainViewController.h */;
+		name = "MainViewController.h: 38";
+		rLen = 0;
+		rLoc = 933;
+		rType = 0;
+		vrLen = 909;
+		vrLoc = 0;
+	};
+	5DA1EFF3113116EE00DF1338 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 95";
+		rLen = 0;
+		rLoc = 2622;
+		rType = 0;
+		vrLen = 898;
+		vrLoc = 28;
+	};
+	5DA1EFF5113116EE00DF1338 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A30DB2D0840083E9F9 /* FlipsideView.m */;
+		name = "FlipsideView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 435;
+		vrLoc = 0;
+	};
+	5DA1EFF7113116EE00DF1338 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */;
+		name = "FlipsideViewController.m: 12";
+		rLen = 0;
+		rLoc = 232;
+		rType = 0;
+		vrLen = 962;
+		vrLoc = 0;
+	};
+	5DCACB131132C4EB00F87D43 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */;
+		name = "FlipsideViewController.h: 17";
+		rLen = 0;
+		rLoc = 339;
+		rType = 0;
+		vrLen = 833;
+		vrLoc = 0;
+	};
+	5DCACB141132C4EB00F87D43 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A20DB2D0840083E9F9 /* FlipsideView.h */;
+		name = "FlipsideView.h: 11";
+		rLen = 0;
+		rLoc = 172;
+		rType = 0;
+		vrLen = 179;
+		vrLoc = 0;
+	};
+	5DCACB151132C4EB00F87D43 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D4081191111CC2200E13F11 /* TCPOperation.h */;
+		name = "TCPOperation.h: 8";
+		rLen = 0;
+		rLoc = 133;
+		rType = 0;
+		vrLen = 326;
+		vrLoc = 0;
+	};
+	5DCACB161132C4EB00F87D43 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D40811A1111CC2200E13F11 /* TCPOperation.m */;
+		name = "TCPOperation.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 550;
+		vrLoc = 0;
+	};
+	5DCACB171132C4EB00F87D43 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D702C6D1128480D009B006B /* SocketObject.h */;
+		name = "SocketObject.h: 12";
+		rLen = 0;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 350;
+		vrLoc = 0;
+	};
+	5DCACB221132C4EB00F87D43 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5D702C6E1128480D009B006B /* SocketObject.m */;
+		name = "SocketObject.m: 52";
+		rLen = 0;
+		rLoc = 1012;
+		rType = 0;
+		vrLen = 711;
+		vrLoc = 0;
+	};
+}
